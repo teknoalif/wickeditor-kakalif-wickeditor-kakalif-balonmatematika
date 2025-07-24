@@ -1,9 +1,5 @@
 # wickeditor-kakalif-wickeditor-kakalif-balonmatematika
 
-Berikut versi lengkap dan diperbarui dari isi **README.md** untuk proyek **"Game Balon Matematika"** kamu di Wick Editor, dengan penambahan sumber referensi YouTube:
-
----
-
 ## 🎈 Game Balon Matematika - Wick Editor
 
 Sebuah game edukatif interaktif berbasis matematika yang dibuat menggunakan **Wick Editor**. Dalam permainan ini, pemain harus menjawab soal matematika sebelum balon mencapai batas atas layar. Jika jawabannya benar, balonnya akan meledak — jika tidak, permainan berakhir!
